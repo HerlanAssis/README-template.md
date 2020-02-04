@@ -1,74 +1,74 @@
-# Project name
+# Nome do Projeto
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+<!--- Alguns exemplos. Veja https://shields.io para outros escudos customizavéis. Convém incluir dependências, status do projeto e informações da licença aqui --->
+![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/README-template.md)
+![GitHub stars](https://img.shields.io/github/stars/herlanassis/README-template.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/herlanassis/README-template.md?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/README-template.md?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/herlanassis?style=social)
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Nome do Projeto é um(a) `<utilitário/ferramenta/recurso>` que permite `<público_alvo>` fazer `<ação/tarefa>`.
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+Linha de informações adicionais sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 frases. Não exagere, as pessoas não vão ler
 
-## Prerequisites
+## Pré-requisitos
 
-Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!--- Estes são apenas exemplos de requisitos. Adicione, duplique ou remova conforme necessário --->
+* Você instalou a versão mais recente do `<idioma da codificação / dependência / requisito_1>`
+* Você tem uma máquina `<Windows / Linux / Mac>`. Declare qual SO é suportado / o que não é.
+* Você leu `<guide / link / documentation_related_to_project>`.
 
-## Installing <project_name>
+## Instalando <nome_projeto>
 
-To install <project_name>, follow these steps:
+Para instalar o <nome_projeto>, siga estes passos:
 
-Linux and macOS:
+Linux e macOS:
 ```
-<install_command>
+<comando>
 ```
 
 Windows:
 ```
-<install_command>
+<comando>
 ```
-## Using <project_name>
+## Utilizando <nome_projeto>
 
-To use <project_name>, follow these steps:
+Para usar o <nome_projeto>, siga estes passos:
 
 ```
-<usage_example>
+<exemplos_de_uso>
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
 
-## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+## Contribuindo para <nome_projeto>
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+<!--- Se o seu README for longo ou você tiver algum processo ou etapas específicos que você deseja que os colaboradores sigam, considere a criação de um arquivo CONTRIBUTING.md separado --->
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Para contribuir com <nome_projeto>, siga estes passos:
 
-## Contributors
+1. Fork esse repositório.
+2. Crie uma branch: `git checkout -b <branch_name>`.
+3. Faça suas mudanças e comite para: `git commit -m '<commit_message>'`
+4. Push para a branch de origem: `git push origin <nome_projeto>/<location>`
+5. crie um pull request.
 
-Thanks to the following people who have contributed to this project:
+Como alternativa, consulte a documentação do GitHub em [criando uma pull request](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
+## Contribuidores
 
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+Agradeço às seguintes pessoas que contribuíram para este projeto:
 
-## Contact
+* [@herlanassis](https://github.com/herlanassis)
 
-If you want to contact me you can reach me at <your_email@address.com>.
+Você pode considerar o uso de algo como a especificação como [Todos os colaboradores](https://github.com/all-contributors/all-contributors) e sua [chave emoji] (https://allcontributors.org/docs/pt/ tecla emoji).
+
+## Contato
+
+Se você quiser entrar em contato comigo, entre em contato com <your_email@address.com>.
 
 ## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
-
-This project uses the following license: [<license_name>](<link>).
+<!--- Se você não tiver certeza de qual licença aberta usar, consulte https://choosealicense.com --->
+Este projeto usa a seguinte licença: [<license_name>] (<link>).
