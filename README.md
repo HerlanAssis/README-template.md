@@ -43,6 +43,15 @@ Para usar o <nome_projeto>, siga estes passos:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
 
+## TODO
+
+Faça um TODO List, se necessário, das próximas etapas ou do que ficou faltando nesta etapa do projeto.
+
+As próximas ações para o <nome_projeto> são:
+
+* [x] ~~Escrever README~~
+* [] Escrever Testes
+
 ## Contribuindo para <nome_projeto>
 
 <!--- Se o seu README for longo ou você tiver algum processo ou etapas específicos que você deseja que os colaboradores sigam, considere a criação de um arquivo CONTRIBUTING.md separado --->
