@@ -50,7 +50,7 @@ Faça um TODO List, se necessário, das próximas etapas ou do que ficou faltand
 As próximas ações para o <nome_projeto> são:
 
 * [x] ~~Escrever README~~
-* [] Escrever Testes
+* [ ] Escrever Testes
 
 ## Contribuindo para <nome_projeto>
 
